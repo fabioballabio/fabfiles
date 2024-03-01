@@ -1,4 +1,4 @@
-baseURL: "https://fabfiles.github.io/"
+baseURL: "https://fabioballabio.github.io/"
 title: FabFiles
 paginate: 5
 theme: PaperMod
@@ -74,7 +74,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://fabfiles.github.io.git/content"
+    URL: "https://fabioballabio.github.io.git/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
