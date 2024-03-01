@@ -77,18 +77,11 @@ params:
     Content: Hi! I am Fabio an this is my journey.
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
+    - name: LinkedIn
+      url: "https://linkedin.com/fabioballabio7"
     - name: github
       url: "https://github.com/fabioballabio/"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
