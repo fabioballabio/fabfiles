@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fabfiles.github.io/sitemap.xml
