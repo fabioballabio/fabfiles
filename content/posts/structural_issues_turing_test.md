@@ -1,10 +1,8 @@
 +++
-title = 'Structural_issues_turing_test'
+title = 'Structural issues of the Turing test: A survey on the structural issues concerning two different interpretations of the Turing test'
 date = 2024-03-01T17:54:35+01:00
 draft = false
 +++
-
-# Structural issues of the Turing test: A survey on the structural issues concerning two different interpretations of the Turing test
 
 This blog post explores the structural issues of the Turing test under two different interpretations, the Original one, also called Imitation game, and the Standard one, which is the one usually intended speaking about Turing test. Looking at some structural problems in both the two frameworks of the Turing test we want to show that none of the two, for different reasons, is a good replacement for the question "Can machines think?" lacking to capture the very essence of what human beings would identify as intelligence, introducing expedients and game mechanisms only useful within the test itself.
 
